@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Checked</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Prototyping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Theme-Dashboard---Validated" transform="translate(-522.000000, -131.000000)" fill="#ffffff">
+            <g id="Header" transform="translate(427.000000, 116.000000)">
+                <g id="Status">
+                    <g transform="translate(95.000000, 12.000000)">
+                        <path d="M7,3 C3.13394667,3 0,6.13394667 0,10 C0,13.8660533 3.13394667,17 7,17 C10.8660533,17 14,13.8660533 14,10 C14,6.13394667 10.8660533,3 7,3 L7,3 Z M9.62490667,7.01986667 L10.85504,8.25 L6.12490667,12.9801333 L3.14496,10 L4.37509333,8.76986667 L6.12490667,10.5198667 L9.62490667,7.01986667 Z" id="Checked"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Prototyping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Care---Feedback-States" transform="translate(-447.000000, -382.000000)" fill="#ffbf4d">
+            <g id="Messages" transform="translate(429.000000, 266.000000)">
+                <g id="Warning" transform="translate(0.000000, 91.000000)">
+                    <g id="Content" transform="translate(18.000000, 15.000000)">
+                        <path d="M10,10 C4.46666667,10 0,14.4666667 0,20 C0,25.5333333 4.46666667,30 10,30 C15.5333333,30 20,25.5333333 20,20 C20,14.4666667 15.5333333,10 10,10 Z M8.6,14.7333333 C8.6,13.9781333 9.2,13.3781333 9.9552,13.3781333 C10.3552,13.3781333 10.7104,13.5333333 10.9552,13.8 C11.2218667,14.0666667 11.3770667,14.4218667 11.3770667,14.8 L11.3770667,20.7552 C11.3770667,21.5333333 10.7322667,22.1770667 9.9552,22.1770667 C9.2,22.1770667 8.6,21.5552 8.6,20.8218667 L8.6,14.7333333 Z M11.6885333,25.1114667 C11.6,25.9114667 10.9552,26.5562667 10.1770667,26.6229333 C9.08853333,26.7344 8.17706667,25.8229333 8.28853333,24.7344 C8.37706667,23.9562667 9.02186667,23.2896 9.8,23.2229333 C10.9114667,23.1114667 11.8218667,24.0218667 11.6885333,25.1114667 Z" id="icon-warning"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
